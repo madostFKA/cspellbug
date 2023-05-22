@@ -1,0 +1,11 @@
+{
+  "language": "en",
+  "ignorePaths": ["node_modules/**", "yarn.lock", "cspell/**"],
+  "dictionaries": ["dictionary"],
+  "dictionaryDefinitions": [
+    {
+      "name": "dictionary",
+      "path": "./cspell/dictionary.txt"
+    }
+  ]
+}
