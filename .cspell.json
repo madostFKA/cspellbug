@@ -1,6 +1,6 @@
 {
   "language": "en",
-  "ignorePaths": ["node_modules/**", "yarn.lock", "cspell/**"],
+  "ignorePaths": ["node_modules/**", "yarn.lock", "cspell/**", "build/**", "package.json"],
   "dictionaries": ["dictionary"],
   "dictionaryDefinitions": [
     {

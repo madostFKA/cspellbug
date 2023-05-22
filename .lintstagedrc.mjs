@@ -1,3 +1,3 @@
 export default {
-  "*.tsx": [`cspell`]
+  "*.tsx": [`cspell --verbose`]
 };
